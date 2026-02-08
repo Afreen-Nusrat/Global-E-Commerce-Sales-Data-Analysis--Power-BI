@@ -1,0 +1,2 @@
+# Global-E-Commerce-Sales-Data-Analysis--Power-BI
+This project analyzes global e-commerce sales using Power BI. The data was cleaned using Power Query, and basic DAX measures were created to calculate total of sales, orders, and quantity. Interactive dashboards were built to analyze sales by country, category, and month. The project focuses on presenting data in a clear an easy-to-understand way. 
